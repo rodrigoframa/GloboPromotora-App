@@ -21,7 +21,7 @@ import Header from './template/Header'
 import Footer from './template/Footer'
 export default {
   name: 'App',
-  components: {Header, Footer},
+  components: { Header, Footer },
   data () {
     return {
       drawer: false

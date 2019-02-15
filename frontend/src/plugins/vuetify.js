@@ -4,7 +4,6 @@ import 'vuetify/src/stylus/app.styl'
 import pt from 'vuetify/es5/locale/pt'
 import colors from 'vuetify/es5/util/colors'
 
-
 Vue.use(Vuetify, {
   iconfont: 'md',
   lang: {

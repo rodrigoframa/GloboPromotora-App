@@ -16,7 +16,7 @@
             <v-btn flat>B</v-btn>
             <v-btn flat>C</v-btn>
         </v-toolbar-items>
-    </v-toolbar>
+    </v-toolbar>  
 </template>
 
 <script>
