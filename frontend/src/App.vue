@@ -17,8 +17,8 @@
 </template>
 
 <script>
-import Header from './components/Header'
-import Footer from './components/Footer'
+import Header from './template/Header'
+import Footer from './template/Footer'
 export default {
   name: 'App',
   components: {Header, Footer},
